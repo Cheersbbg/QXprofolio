@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1661150465854.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1661150687902.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-d12245cc-1680-458d-89dd-4f0d7fb22724" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Home" width="1280" height="4200">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1661150465854.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1661150687902.css" />\
       <div class="freeLayout">\
       <div id="s-Group_20" class="group firer ie-background commentable non-processed" customid="Menu" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="s-Paragraph_17" class="richtext manualfit firer ie-background commentable non-processed" customid="Privacy policy"   datasizewidth="103.0px" datasizeheight="21.0px" dataX="760.0" dataY="4133.0" >\
@@ -1392,6 +1392,21 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             <div class="content">\
               <div class="valign">\
                 <span id="rtr-s-Button_3_0">Skills</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Button_4" class="button multiline manualfit firer click ie-background commentable non-processed" customid="All projects"   datasizewidth="68.0px" datasizeheight="36.0px" dataX="882.0" dataY="73.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Button_4_0">All projects</span>\
               </div>\
             </div>\
           </div>\
